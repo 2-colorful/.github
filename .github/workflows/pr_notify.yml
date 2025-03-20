@@ -1,0 +1,13 @@
+name: pr_notify
+on:
+    workflow_dispatch:
+pull_request:
+types: [opened]
+jobs:
+    discord:
+        runs-on: ubuntu-latest
+        steps:
+            
+name: Send Discord Notification
+            run: |
+              curl -H "Content-Type: application/json" \-X POST "${{ secrets.DISCORD_WEBHOOK_URL }}" \-d '{"embeds": [{"title": "새로운 PR이 있습니다!","description": "[리뷰해주세요](https://github.com/$%7B%7B github.repository }})","color": 3066993}]}'
