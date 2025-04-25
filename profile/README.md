@@ -239,27 +239,18 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 <br/>
 
 ## 📱 화면 구성
+|  로그인   |  메인   |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c" width="300"/>    |  <img src="../gifs/main.gif" width="300"/>   |   
 
-### 로그인
-<img src="https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c" width="300"/>
+|  상품 조회 (무한스크롤)   |  상품 상세 조회   | 상품 필터링 |
+| :---: | :---: | :---: |
+| <img src="../gifs/상품조회(무한스크롤).gif" width="300"/>    |  <img src="../gifs/상품상세조회.gif" width="300"/>   | <img src="../gifs/상품필터링.gif" width="300"/> |
 
-### 메인
-<img src="../gifs/main.gif" width="300"/>
+| 검색 | 최근 본 상품 |
+| :---: | :---: |
+| <img src="../gifs/검색.gif" width="300"/> | <img src="../gifs/최근본상품.gif" width="300"/> |
 
-### 상품 조회 (무한스크롤)
-<img src="../gifs/상품조회(무한스크롤).gif" width="300"/>
-
-### 상품 상세 조회
-<img src="../gifs/상품상세조회.gif" width="300"/>
-
-### 상품 필터링
-<img src="../gifs/상품필터링.gif" width="300"/>
-
-### 검색
-<img src="../gifs/검색.gif" width="300"/>
-
-### 최근 본 상품
-<img src="../gifs/최근본상품.gif" width="300"/>
 <br/>
 
 ## 	✨ 주요 기능
