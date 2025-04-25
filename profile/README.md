@@ -239,20 +239,27 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 <br/>
 
 ## 화면 구성
+
 ### 로그인
-![Image](https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c)
+<img src="https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c" width="200"/>
+
 ### 메인
-![alt text](../gifs/main.gif)
+<img src="../gifs/main.gif" width="200"/>
+
 ### 상품 조회 (무한스크롤)
-![alt text](../gifs/상품조회(무한스크롤).gif)
+<img src="../gifs/상품조회(무한스크롤).gif" width="200"/>
+
 ### 상품 상세 조회
-![alt text](../gifs/상품상세조회.gif)
+<img src="../gifs/상품상세조회.gif" width="200"/>
+
 ### 상품 필터링
-![alt text](../gifs/상품필터링.gif)
+<img src="../gifs/상품필터링.gif" width="200"/>
+
 ### 검색
-![alt text](../gifs/검색.gif)
+<img src="../gifs/검색.gif" width="200"/>
+
 ### 최근 본 상품
-![alt text](../gifs/최근본상품.gif)
+<img src="../gifs/최근본상품.gif" width="200"/>
 <br/>
 
 ## 주요 기능
@@ -275,8 +282,7 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해서 팀원들과 공유했습니다.
 
 > ### Backend
-
-![Image](https://github.com/user-attachments/assets/74bf8cfe-29e5-4988-b6ea-009f280e3307)
+<img src="https://github.com/user-attachments/assets/74bf8cfe-29e5-4988-b6ea-009f280e3307" width="400"/>
 
 <br/>
 
@@ -285,32 +291,34 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 ## Git
 
 ### 이슈
+<img src="https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064" width="400"/>
 
-![Image](https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064)
-![Image](https://github.com/user-attachments/assets/0e83a3eb-15e9-4044-a02a-6fa41ac364c9)
+<img src="https://github.com/user-attachments/assets/0e83a3eb-15e9-4044-a02a-6fa41ac364c9" width="400"/>
 
 ### 커밋
 
-![Image](https://github.com/user-attachments/assets/4ef068f1-9ae1-4dd6-aa5a-1fdc42ed80a3)
+<img src="https://github.com/user-attachments/assets/4ef068f1-9ae1-4dd6-aa5a-1fdc42ed80a3" width="400"/>
 
 ### PR
 
-![Image](https://github.com/user-attachments/assets/a8ccac38-add6-48f0-af98-9ab4a7ebb311)
-![Image](https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633)
+<img src="https://github.com/user-attachments/assets/a8ccac38-add6-48f0-af98-9ab4a7ebb311" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633" width="400"/>
 
 ## 일정 관리
 
 ### 스프린트
 
-![Image](https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e)
-![Image](https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce)
+<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="400"/>
+
+<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="400"/>
 
 ### WBS
 
-![Image](https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb)
+<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="400"/>
 
 ## API 명세서
-![Image](https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd)
+<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="400"/>
 ## 느낀점
 
 | 이름   | 느낀점 |
