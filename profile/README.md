@@ -49,13 +49,13 @@
 <br/>
 
 ## 시스템 아키텍처
-![alt text](시스템아키텍처.png)
+![Image](https://github.com/user-attachments/assets/370a8d24-71c2-410a-84bb-6bbf2cfda3c2)
 
 <br/>
 
 ## ERD
 
-![alt text](erd.png)
+![Image](https://github.com/user-attachments/assets/04adcf88-e81e-455a-9040-14afdb29602f)
 
 <br/>
 
@@ -263,7 +263,7 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 > ### Backend
 
-![alt text](<트러블 슈팅-1.png>)
+![Image](https://github.com/user-attachments/assets/74bf8cfe-29e5-4988-b6ea-009f280e3307)
 
 <br/>
 
@@ -273,31 +273,31 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 ### 이슈
 
-![alt text](이슈1.png)
-![alt text](이슈2.png)
+![Image](https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064)
+![Image](https://github.com/user-attachments/assets/0e83a3eb-15e9-4044-a02a-6fa41ac364c9)
 
 ### 커밋
 
-![alt text](커밋.png)
+![Image](https://github.com/user-attachments/assets/4ef068f1-9ae1-4dd6-aa5a-1fdc42ed80a3)
 
 ### PR
 
-![alt text](PR1.png)
-![alt text](PR2.png)
+![Image](https://github.com/user-attachments/assets/a8ccac38-add6-48f0-af98-9ab4a7ebb311)
+![Image](https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633)
 
 ## 일정 관리
 
 ### 스프린트
 
-![alt text](스프린트.png)  
-![alt text](스프린트2-1.png)
+![Image](https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e)
+![Image](https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce)
 
 ### WBS
 
-![alt text](WBS-1.png)
+![Image](https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb)
 
 ## API 명세서
-![alt text](API명세-1.png)
+![Image](https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd)
 ## 느낀점
 
 | 이름   | 느낀점 |
