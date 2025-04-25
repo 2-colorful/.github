@@ -53,7 +53,7 @@
 
 <br/>
 
-## ERD
+## 🧾 ERD
 
 ![Image](https://github.com/user-attachments/assets/04adcf88-e81e-455a-9040-14afdb29602f)
 
