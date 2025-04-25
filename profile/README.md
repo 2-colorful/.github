@@ -242,11 +242,17 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 ### 로그인
 ![Image](https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c)
 ### 메인
+![alt text](../gifs/main.gif)
 ### 상품 조회 (무한스크롤)
+![alt text](../gifs/상품조회(무한스크롤).gif)
 ### 상품 상세 조회
+![alt text](../gifs/상품상세조회.gif)
 ### 상품 필터링
+![alt text](../gifs/상품필터링.gif)
 ### 검색
+![alt text](../gifs/검색.gif)
 ### 최근 본 상품
+![alt text](../gifs/최근본상품.gif)
 <br/>
 
 ## 주요 기능
