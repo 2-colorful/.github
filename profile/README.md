@@ -4,20 +4,20 @@
 
 <br/>
 
-## Starbucks Store Rebuilding
+## ☕️ Starbucks Store Rebuilding
 
 > 신세계 I&C 스파로스 아카데미  
 > 개발기간: 2025-03 ~ 2025.04
 
 <br/>
 
-## 배포 주소
+## 🚀 배포 주소
 
-🚀 [https://colorful-starbucks.store](https://colorful-starbucks.store)
+ [https://colorful-starbucks.store](https://colorful-starbucks.store)
 
 <br/>
 
-## 팀원 소개
+## 👥 팀원 소개
 | 이름 | 역할 |
 | ----- | ------- |
 | 김호철 | FE(팀장) |   
@@ -29,13 +29,13 @@
 
 <br/>
 
-## 프로젝트 소개
+## 	📌 프로젝트 소개
 
 스파로스 아카데미 6기, 2조 각양각생팀의 1차 프로젝트인 스타벅스 리빌딩 프로젝트입니다.
 
 <br/>
 
-## 기술 스택
+## 🛠️ 기술 스택
 
 > **Frontend** : JavaScript, TypeScrip, React.js, Next.js, TailwindCSS, Shadcn,
 >
@@ -48,7 +48,7 @@
 
 <br/>
 
-## 시스템 아키텍처
+## 🏗️ 시스템 아키텍처
 ![Image](https://github.com/user-attachments/assets/370a8d24-71c2-410a-84bb-6bbf2cfda3c2)
 
 <br/>
@@ -59,7 +59,7 @@
 
 <br/>
 
-## 시작 가이드
+## 🧭 시작 가이드
 
 > ### Backend
 
@@ -175,7 +175,7 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 
 <br/>
 
-## 폴더 구조
+## 🗃️ 폴더 구조 
 
 ### Backend
 
@@ -238,7 +238,7 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 
 <br/>
 
-## 화면 구성
+## 📱 화면 구성
 
 ### 로그인
 <img src="https://github.com/user-attachments/assets/533f07fa-223e-4dad-ad09-3f1a1a2fd51c" width="300"/>
@@ -262,7 +262,7 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 <img src="../gifs/최근본상품.gif" width="300"/>
 <br/>
 
-## 주요 기능
+## 	✨ 주요 기능
 
 | 구분      | 기능              | 설명                                                                                          |
 | --------- | ----------------- | --------------------------------------------------------------------------------------------- |
@@ -277,7 +277,7 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 
 <br/>
 
-## 지식 공유
+## 📚 지식 공유
 
 Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성해서 팀원들과 공유했습니다.
 
@@ -289,7 +289,7 @@ Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성�
 > ### Frontend
 <img src="https://github.com/user-attachments/assets/7d41c420-3fc8-4d74-8531-8a79f9ed1358" width="500"/>
 
-## Git
+## 🔧 Git
 ### 이슈
 <img src="https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064" width="500"/>   
 
@@ -305,7 +305,7 @@ Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성�
 
 <img src="https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633" width="700"/>
 
-## 일정 관리
+## 🗓️ 일정 관리
 
 ### 스프린트
 
@@ -317,10 +317,10 @@ Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성�
 
 <img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb"/>
 
-## API 명세서
+## 📑 API 명세서
 <img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd"/>
 
-## 느낀점
+## 💬 느낀점
 
 | 이름   | 느낀점 |
 | ------ |---------------------------------------------------------------- |
