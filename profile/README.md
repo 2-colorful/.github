@@ -301,24 +301,25 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 ### PR
 
-<img src="https://github.com/user-attachments/assets/a8ccac38-add6-48f0-af98-9ab4a7ebb311" width="500"/>   
+<img src="https://github.com/user-attachments/assets/a8ccac38-add6-48f0-af98-9ab4a7ebb311" width="700"/>   
 
-<img src="https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633" width="500"/>
+<img src="https://github.com/user-attachments/assets/7b074fe7-d304-4cbc-a1b7-03071f7d5633" width="700"/>
 
 ## 일정 관리
 
 ### 스프린트
 
-<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="500"/>   
+<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="700"/>   
 
-<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="500"/>   
+<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="700"/>   
 
 ### WBS
 
-<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="500"/>
+<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="700"/>
 
 ## API 명세서
-<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="500"/>
+<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="700"/>
+
 ## 느낀점
 
 | 이름   | 느낀점 |
