@@ -277,9 +277,9 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 
 <br/>
 
-## 트러블 슈팅
+## 지식 공유
 
-Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해서 팀원들과 공유했습니다.
+Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성해서 팀원들과 공유했습니다.
 
 > ### Backend
 <img src="https://github.com/user-attachments/assets/74bf8cfe-29e5-4988-b6ea-009f280e3307" width="500"/>
@@ -287,9 +287,9 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 <br/>
 
 > ### Frontend
+<img src="https://github.com/user-attachments/assets/7d41c420-3fc8-4d74-8531-8a79f9ed1358" width="500"/>
 
 ## Git
-
 ### 이슈
 <img src="https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064" width="500"/>   
 
