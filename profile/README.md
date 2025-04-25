@@ -309,16 +309,16 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 ### 스프린트
 
-<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="700"/>   
+<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="800"/>   
 
-<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="700"/>   
+<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="800"/>   
 
 ### WBS
 
-<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="700"/>
+<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="800"/>
 
 ## API 명세서
-<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="700"/>
+<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="800"/>
 
 ## 느낀점
 
