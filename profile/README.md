@@ -247,9 +247,13 @@ NEXT_PUBLIC_PAYMENTS_KEY=test_your_client_key
 | :---: | :---: | :---: |
 | <img src="../gifs/상품조회(무한스크롤).gif" width="300"/>    |  <img src="../gifs/상품상세조회.gif" width="300"/>   | <img src="../gifs/상품필터링.gif" width="300"/> |
 
-| 검색 | 최근 본 상품 |
-| :---: | :---: |
-| <img src="../gifs/검색.gif" width="300"/> | <img src="../gifs/최근본상품.gif" width="300"/> |
+| 검색 | 최근 본 상품 | 베스트 상품 |
+| :---: | :---: | :---: |
+| <img src="../gifs/검색.gif" width="300"/> | <img src="../gifs/최근본상품.gif" width="300"/> | <img src="../gifs/best.gif" width="300"/>
+
+| 배송지 관리 | 이벤트 |
+| :---: | :---: | 
+| <img src="../gifs/address.gif" width="300"/> | <img src="../gifs/event.gif" width="300"/> |
 
 <br/>
 
