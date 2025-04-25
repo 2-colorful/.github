@@ -309,9 +309,9 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 ### 스프린트
 
-<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e" width="800"/>   
+<img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e"/>   
 
-<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce" width="800"/>   
+<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce"/>   
 
 ### WBS
 
