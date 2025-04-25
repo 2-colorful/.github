@@ -315,10 +315,10 @@ Backend, Frontend 모두 트러블 슈팅 했던 내용을 노션에 작성해�
 
 ### WBS
 
-<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb" width="800"/>
+<img src="https://github.com/user-attachments/assets/ee8ab758-1712-4148-ba51-31e6bac5f0fb"/>
 
 ## API 명세서
-<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd" width="800"/>
+<img src="https://github.com/user-attachments/assets/47503fe2-3e72-42f1-b904-ffd6fa1e79cd"/>
 
 ## 느낀점
 
