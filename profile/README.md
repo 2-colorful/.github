@@ -291,10 +291,9 @@ Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성�
 
 ## 🔧 Git
 ### 이슈
-<img src="https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064" width="500"/>    
+<img src="https://github.com/user-attachments/assets/0c5a242a-0696-4221-acf9-e5f454761064" width="600"/>    
 
-
-<img src="https://github.com/user-attachments/assets/0e83a3eb-15e9-4044-a02a-6fa41ac364c9" width="500"/>
+<img src="https://github.com/user-attachments/assets/0e83a3eb-15e9-4044-a02a-6fa41ac364c9" width="600"/>
 
 ### 커밋
 
