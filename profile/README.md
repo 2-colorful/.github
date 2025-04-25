@@ -1,6 +1,6 @@
 # COLORFUL
 
-![각양각색팀 로고](colorful-1.png)
+![Image](https://github.com/user-attachments/assets/ea3deee7-577d-4494-80f5-a15deadf8d5c)
 
 <br/>
 
