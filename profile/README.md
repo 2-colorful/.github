@@ -311,7 +311,7 @@ Backend, Frontend 모두 트러블 슈팅, 학습한 내용을 노션에 작성�
 
 <img src="https://github.com/user-attachments/assets/d06e9bac-a6b7-4706-8512-ac5982ba4b3e"/>   
 
-<img src="https://github.com/user-attachments/assets/83aa2e76-9618-4f77-89dd-3ecf98ce81ce"/>   
+<img src="https://github.com/user-attachments/assets/adc2ad12-81a1-4efe-bb69-b5950744e8a7"/>   
 
 ### WBS
 
